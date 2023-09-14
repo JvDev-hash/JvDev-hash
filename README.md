@@ -1,5 +1,8 @@
 ### Hi there 👋
 <div>
+  <a href="jvbaprof@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+<div>
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=JvDev-hash&show_icons=true&count_private=true&theme=synthwave">
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvDev-hash&theme=synthwave">
 </div>
