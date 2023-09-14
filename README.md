@@ -1,5 +1,11 @@
 ### Hi there 👋
 <div>
+⚡ Skills:
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</div>
+<div>
+📫 How to reach me:
   <a href="https://www.linkedin.com/in/joao-victor-barbosa-andrade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <div>
