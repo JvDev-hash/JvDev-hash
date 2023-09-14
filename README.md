@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JvDev-hash)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JvDev-hash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=JvDev-hash&show_icons=true&count_private=true&theme=synthwave">
+<img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvDev-hash&theme=tokyonight">
 <!--
 **JvDev-hash/JvDev-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
