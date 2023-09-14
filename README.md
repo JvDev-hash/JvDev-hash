@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <a href="jvbaprof@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joao-victor-barbosa-andrade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <div>
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=JvDev-hash&show_icons=true&count_private=true&theme=synthwave">
