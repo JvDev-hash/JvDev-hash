@@ -11,9 +11,6 @@
 ##
 ### Now here's some of what I know:
 <div>
-⚡ Skills:
-  <br>
-  <br>
   🌱 BackEnd
   <div id="firstRow">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
