@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm João Victor Barbosa: a Software Engineer, a passionate musician and gamer, here's some of what I know:
 <div>
 ⚡ Skills:
   <br>
