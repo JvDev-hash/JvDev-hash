@@ -1,4 +1,15 @@
-### Hi there! I'm João Victor Barbosa: a Software Engineer, a passionate musician and gamer, here's some of what I know:
+### Hi there! I'm João Victor Barbosa: a Software Engineer, a passionate musician and gamer!
+
+🔭 I’m currently working on two projects on early stage of development: An Monster Catalogue of RPG Monsters and a File Uploead Wrapper, Both of them with Java and/or Spring
+
+<div>
+📫 How to reach me:
+  </br>
+  <a href="https://www.linkedin.com/in/joao-victor-barbosa-andrade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+##
+### Now here's some of what I know:
 <div>
 ⚡ Skills:
   <br>
@@ -43,14 +54,7 @@
 </div>
 
 ##
-- 🔭 I’m currently working on two projects on early stage of development: An Monster Catalogue of RPG Monsters and a File Uploead Wrapper, Both of them with Java and/or Spring
-##
 
-<div>
-📫 How to reach me:
-  </br>
-  <a href="https://www.linkedin.com/in/joao-victor-barbosa-andrade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
 <div>
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=JvDev-hash&show_icons=true&count_private=true&theme=synthwave">
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvDev-hash&theme=synthwave">
