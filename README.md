@@ -1,6 +1,6 @@
 ### Hi there! I'm João Victor Barbosa: a Software Engineer, a passionate musician and gamer!
 
-🔭 I’m currently working on two projects on early stage of development: An Monster Catalogue of RPG Monsters and a File Uploead Wrapper, Both of them with Java and/or Spring
+🔭 I’m currently working on two projects on early stage of development: An Monster Catalogue of RPG Monsters and a File Uploead Wrapper, Both of them with Java and/or Spring.
 
 <div>
 📫 How to reach me:
