@@ -15,8 +15,8 @@ function generateBaseAndOverColor(color) {
 module.exports = {
   colors: {
     primary: generateBaseAndOverColor('#660066'),
-    secondary: generateBaseAndOverColor('#300047'),
-    lightSecondary: generateBaseAndOverColor('#d580ff'),
+    secondary: generateBaseAndOverColor('#d580ff'),
+    lightSecondary: generateBaseAndOverColor('#eabfff'),
     black: generateBaseAndOverColor(black),
     white: generateBaseAndOverColor(white),
   },
