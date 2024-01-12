@@ -4,8 +4,8 @@
 const { colors } = require('./theme');
 
 module.exports = {
-  user: 'nick-gabe',
-  startedProgramming: '9/10/2020',
+  user: 'JvDev-hash',
+  startedProgramming: '1/10/2015',
   repoQuantity: 6,
   header: {
     styles: {
@@ -18,23 +18,18 @@ module.exports = {
       src: 'src/resources/images/nickgabe.png',
       width: 600,
     },
-    description: "👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.",
+    description: "👋 Heyyy! I'm João Victor, a brazilian programmer and future Devops engineer.",
     badges: [
       {
         type: 'badge',
-        name: 'twitter',
-        href: 'https://twitter.com/imnickgabe',
-      },
-      {
-        type: 'badge',
         name: 'linkedin',
-        href: 'https://linkedin.com/in/nickgabe',
+        href: 'https://linkedin.com/in/joao-victor-barbosa-andrade/',
       },
       {
         type: 'badge',
         name: 'website',
-        href: 'https://nickgabe.vercel.app',
-        logo: 'esri',
+        href: 'http://bit.ly/biblioteca-devops',
+        logo: 'notion',
       },
       {
         type: 'views',
@@ -42,7 +37,7 @@ module.exports = {
     ],
   },
   aboutme: {
-    list: ['* Nícolas Gabriel, 19 years', '* Full Stack programmer', '* Currently studying Python'],
+    list: ['* João Victor, 26 years', '* Java programmer', '* Currently studying Kubernetes and Python'],
   },
   skillswall: {
     styles: {
