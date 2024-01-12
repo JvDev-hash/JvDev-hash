@@ -27,7 +27,7 @@ module.exports = {
       },
       {
         type: 'badge',
-        name: 'website',
+        name: 'notion',
         href: 'http://bit.ly/biblioteca-devops',
         logo: 'notion',
       },
@@ -108,28 +108,16 @@ module.exports = {
     },
     links: [
       {
-        name: 'twitter',
-        href: 'https://twitter.com/imnickgabe',
-      },
-      {
         name: 'linkedin',
-        href: 'https://linkedin.com/in/nickgabe',
+        href: 'https://linkedin.com/in/joao-victor-barbosa-andrade/',
       },
       {
         name: 'email',
         logo: 'gmail',
-        href: 'mailto:nicolasgabrielctt@gmail.com',
+        href: 'mailto:jvbaprof@gmail.com',
       },
       {
-        name: 'npm',
-        href: 'https://www.npmjs.com/~nick-gabe',
-      },
-      {
-        name: 'codepen',
-        href: 'https://codepen.io/nick-gabe',
-      },
-      {
-        name: 'imnickgabe',
+        name: 'azbis',
         logo: 'discord',
         labelColor: colors.secondary.base,
       },
