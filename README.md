@@ -13,26 +13,26 @@
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/javascript-393359?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/shell%20script-d580ff?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/php-393359?logo=php&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/docker-d580ff?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/markdown-4D4577?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/bootstrap-4D4577?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/kubernetes-d580ff?logo=kubernetes&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sqlite-4D4577?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/mongodb-393359?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/linux-d580ff?logo=linux&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/css3-393359?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/node.js-393359?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/git-393359?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/express.js-4D4577?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/kubernetes-d580ff?logo=kubernetes&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jquery-4D4577?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jenkins-d580ff?logo=jenkins&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/python-d580ff?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jquery-393359?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/git-4D4577?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jenkins-d580ff?logo=jenkins&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/shell%20script-d580ff?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mongodb-4D4577?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-393359?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/markdown-393359?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-393359?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/linux-d580ff?logo=linux&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/node.js-393359?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/php-393359?logo=php&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-4D4577?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/docker-d580ff?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sqlite-393359?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
@@ -55,7 +55,7 @@
 
 *Showcases a random GitHub follower here everyday*
 
-<a href="https://github.com/oliverbot" alt="Ruhan Monte"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/JoaoHenrique9" alt="João Henrique"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <hr>
 
