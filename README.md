@@ -2,24 +2,24 @@
 <p align="center"><a href="https://linkedin.com/in/joao-victor-barbosa-andrade/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="http://bit.ly/biblioteca-devops"><img src="https://img.shields.io/badge/notion-4D4577?logo=notion&style=for-the-badge&logoColor=F2F2F2"/></a>
 <img src="https://komarev.com/ghpvc/?username=JvDev-hash&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
-<p align="center">👋 Heyyy! I'm João Victor, a brazilian programmer and future Devops engineer.</p>
+<p align="center">👋 Heyyy! I'm João Victor, a brazilian Java developer.</p>
 
 ## **About me:**
 
-* João Victor, 26 years
-* Java programmer and Devops student
-* Currently studying Kubernetes and Python
-* 8 Years, 2 Months and 13 Days since I started programming
+* João Victor, 27 years
+* Java programmer
+* Currently studying Cloud with Azure and AWS
+* 10 Years since I started programming
 
 ## **Skills wall:**
 
 <p align="left"><img src="https://img.shields.io/badge/git-393359?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/express.js-4D4577?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/kubernetes-d580ff?logo=kubernetes&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/kubernetes-393359?logo=kubernetes&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/jquery-4D4577?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jenkins-d580ff?logo=jenkins&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/python-d580ff?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/shell%20script-d580ff?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jenkins-393359?logo=jenkins&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/python-393359?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/shell%20script-393359?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
@@ -33,12 +33,17 @@
 <img src="https://img.shields.io/badge/bootstrap-4D4577?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/docker-d580ff?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/sqlite-393359?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/java-d580ff?logo=openjdk&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/microsoft%20azure-393359?style=for-the-badge&logo=microsoft-azure&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/amazon%20aws-393359?style=for-the-badge&logo=amazon-aws&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/spring-d580ff?logo=spring&style=for-the-badge&logoColor=F2F2F2"/></p>
+
 
 ## **Recent projects:**
 
 <a href="https://github.com/JvDev-hash/JvDev-hash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=JvDev-hash&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/JvDev-hash/MesDoKubernetes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=MesDoKubernetes&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/JvDev-hash/automation-scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=automation-scripts&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/JvDev-hash/water-sensor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=water-sensor&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/JvDev-hash/curtinho_url_services"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=curtinho_url_services&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/JvDev-hash/angular-dex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=angular-dex&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/JvDev-hash/eurekaDex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=eurekaDex&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/JvDev-hash/dexGateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JvDev-hash&repo=dexGateway&title_color=d580ff&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
