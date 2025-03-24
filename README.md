@@ -32,10 +32,10 @@
 <img src="https://img.shields.io/badge/php-393359?logo=php&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/bootstrap-4D4577?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/docker-d580ff?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sqlite-393359?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/java-d580ff?logo=openjdk&style=for-the-badge&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/microsoft%20azure-393359?style=for-the-badge&logo=microsoft-azure&logoColor=F2F2F2"/></p>
-<img src="https://img.shields.io/badge/amazon%20aws-393359?style=for-the-badge&logo=amazon-aws&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/sqlite-393359?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/java-d580ff?logo=openjdk&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/microsoft%20azure-393359?style=for-the-badge&logo=microsoft-azure&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/amazon%20aws-393359?style=for-the-badge&logo=amazon-aws&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/spring-d580ff?logo=spring&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 
