@@ -6,7 +6,7 @@
 
 ## **About me:**
 
-* João Victor, 27 years
+* João Victor, 29 years
 * Java programmer
 * Currently studying Cloud with Azure and AWS
 * 10 Years since I started programming
